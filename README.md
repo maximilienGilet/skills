@@ -22,6 +22,7 @@ npx skills add maximilienGilet/skills --skill indie-viral-principles
 | [feature-qa](skills/feature-qa/SKILL.md) | User-led, risk-based acceptance testing for large features. |
 | [impact-check](skills/impact-check/SKILL.md) | Evidence-based blast-radius analysis for risky changes. |
 | [indie-viral-principles](skills/indie-viral-principles/SKILL.md) | 31 compass principles for indie viral products. Analyze an existing offer or generate a new one. |
+| [release-check](skills/release-check/SKILL.md) | Evidence-based go/no-go checks for exact release candidates. |
 | [safe-refactor](skills/safe-refactor/SKILL.md) | Behavior-preserving refactors in small verified stages. |
 | [verified-fix](skills/verified-fix/SKILL.md) | End-to-end bug fixing with regression proof and independent review. |
 
