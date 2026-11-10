@@ -22,8 +22,11 @@ npx skills add maximilienGilet/skills --skill indie-viral-principles
 | [feature-qa](skills/feature-qa/SKILL.md) | User-led, risk-based acceptance testing for large features. |
 | [impact-check](skills/impact-check/SKILL.md) | Evidence-based blast-radius analysis for risky changes. |
 | [indie-viral-principles](skills/indie-viral-principles/SKILL.md) | 31 compass principles for indie viral products. Analyze an existing offer or generate a new one. |
+| [onboarding-flows-design](skills/onboarding-flows-design/SKILL.md) | Audit et conception d'onboarding : aha moment, personnalisation, paywall, permissions. |
 | [release-check](skills/release-check/SKILL.md) | Evidence-based go/no-go checks for exact release candidates. |
 | [safe-refactor](skills/safe-refactor/SKILL.md) | Behavior-preserving refactors in small verified stages. |
+| [ui-mobile-fondations](skills/ui-mobile-fondations/SKILL.md) | Fondations UI mobile : navigation, layout, gestes, bottom sheets, états vides. |
+| [ux-psychologie-premium](skills/ux-psychologie-premium/SKILL.md) | UX premium : états, cohérence, récupération d'erreur, principes psychologiques. |
 | [verified-feature](skills/verified-feature/SKILL.md) | End-to-end feature delivery with approval, TDD, review, and user acceptance. |
 | [verified-fix](skills/verified-fix/SKILL.md) | End-to-end bug fixing with regression proof and independent review. |
 
